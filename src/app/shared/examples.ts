@@ -3,7 +3,7 @@ export let moviesList = [
         id: 1,
         name: 'The Shawshank Redemption',
         director:'Frank Darabont',
-        imageUrl:'https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg',
+        imageUrl:'https://www.w3schools.com/css/trolltunga.jpg',
         duration: 130,
         releaseData:' 14 October 1994',
         genres:'drama',
